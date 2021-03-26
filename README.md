@@ -1,6 +1,6 @@
 # Personal blog made with Jekyll Now | Blog personnel réalisé avec Jekyll Now
 
-[Blog](https://yoplala.github.io)
+[My blog](https://yoplala.github.io)
 
 
 
