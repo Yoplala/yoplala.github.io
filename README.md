@@ -1,4 +1,4 @@
-# Personal blog made with Jekyll Now | Blog personnel réalisé avec Jekyll Now
+# Personal blog made with Jekyll Now and utterances | Blog personnel réalisé avec Jekyll Now et utterances
 
 [My blog](https://yoplala.github.io)
 
@@ -6,6 +6,7 @@
 
 ## Credits
 
+- [utterances](https://utteranc.es/) - Thanks to its creators, contributors and maintainers.
 - [Jekyll Now](https://github.com/barryclark/jekyll-now) - Thanks to barryclark and contributors
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
