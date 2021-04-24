@@ -3,6 +3,8 @@ layout: post
 title: Réorientation professionnelle dans le développement web
 ---
 
+*À 40 ans, j'ai décidé de changer de cap !*
+
 ## Envie d'apprendre, envie de coder
 
 Une constante lors de mes diverses activités professionnelles et bénévoles a toujours été l'utilisation d'outils informatiques et d'Internet. Pendant un long congé maladie de presque 8 ans, quand s'est posé naturellement la question d'une réorientation professionnelle, je me suis rendu compte à quel point je voulais apprendre à coder.
