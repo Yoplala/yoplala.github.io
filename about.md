@@ -38,5 +38,5 @@ Sporadiquement, j'ai des phases où je joue intensément à [Dwarf Fortress](htt
 
 ### Ce blog
 
-Actuellement en recherche d'emploi, j'avais envie d'écrire quelques lignes. Je n'ai aucune ambition pour ce blog, mais ça me faisait plaisir de tester Jekyll Now et utterances  sur GitHub ! Pour le reste, on verra selon l'inspiration... ;)
+Actuellement en recherche d'emploi, j'avais envie d'écrire quelques lignes. Je n'ai aucune ambition pour ce blog, mais ça me faisait plaisir de tester [Jekyll Now](https://github.com/barryclark/jekyll-now) et [utterances](https://utteranc.es/) sur GitHub ! Pour le reste, on verra selon l'inspiration... ;)
 
