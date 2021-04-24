@@ -27,8 +27,8 @@ Après avoir accusé le coup, je relève mes manches et décide de compléter ma
 
 Au moment même de toutes ces réflexions, je découvre sur Twitter, que Noël Mace publie un nouveau livre ["Développement et architecture des applications web modernes - Retrouver les fondamentaux"](https://www.editions-eni.fr/livre/developpement-et-architecture-des-applications-web-modernes-retrouver-les-fondamentaux-9782409029523) (éditions ENI). Acheté à la première heure et arrivé récemment chez moi, ce livre me paraît tout à fait pertinent pour m'aider à garder des repères clairs dans la jungle actuelle, répondre à mes questionnements et me faire garder à l'esprit les fondamentaux sous-jacents à nos pratiques de développeurs et développeuses web. J'ai hâte de dévorer ces 600 pages et pourquoi pas d'en faire quelques retours ici !
 
-![Couverture du livre](https://www.editions-eni.fr/livre/developpement-et-architecture-des-applications-web-modernes-retrouver-les-fondamentaux-9782409029523_XL.jpg)
-
+![Couverture du livre](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/Livre.jpg)
+![Couverture du livre](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/Chat.jpg)
 
 
 Dans le même temps, j'ai décidé de m'attaquer à Vue.js. Ma compagne a commencé à apprendre React et avec nos échanges quotidiens, cela devrait enrichir nos apprentissages respectifs.
