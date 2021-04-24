@@ -4,7 +4,7 @@ title: À propos
 permalink: /about/
 ---
 
-<span style="float: left; margin-right: 5%;">![Photo CV.png](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/PhotoCV.png)</span>
+<span style="float: left; display: block; margin-right: 5%;">![Photo CV.png](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/PhotoCV.png)</span>
 
 <span style="margin-top: 10%;">Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !</span>
 
@@ -22,10 +22,10 @@ J'ai finalement trouvé un traitement qui diminue les impacts de la maladie et j
 ### Projets
 
 Tout en continuant à me former, je suis occupé pour le moment sur les projets suivants :
-	• Site sur SPIP pour les nouvelles d’un écrivain (commande client)
-	• Web-store pour des smartphones reconditionnés (commande client)
-	• Thème personnalisé pour BuddyPress (projet personnel)
-	• Application de liste de courses (projet personnel)
+• Site sur SPIP pour les nouvelles d’un écrivain (commande client)
+• Web-store pour des smartphones reconditionnés (commande client)
+• Thème personnalisé pour BuddyPress (projet personnel)
+• Application de liste de courses (projet personnel)
 
 
 ### Par ailleurs
