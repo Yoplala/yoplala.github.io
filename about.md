@@ -29,9 +29,6 @@ Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Br
 </div>
 
 <div id="second">
-
-
-
 ### Parcours
 
 J'ai d'abord travaillé plusieurs années en librairie tout en finançant mes études d'anthropologie à l'université. J'ai ensuite eu l'occasion de travailler comme responsable de service dans une fédération de centres de planning familial (défense politique et activités publiques). 
@@ -62,6 +59,5 @@ Sporadiquement, j'ai des phases où je joue intensément à [Dwarf Fortress](htt
 ### Ce blog
 
 Actuellement en recherche d'emploi, j'avais envie d'écrire quelques lignes. Je n'ai aucune ambition pour ce blog, mais ça me faisait plaisir de tester Jekyll Now et utterances  sur GitHub ! Pour le reste, on verra selon l'inspiration... ;) 
-
 </div>
 
