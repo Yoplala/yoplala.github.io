@@ -12,7 +12,7 @@ permalink: /about/
 Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
 </div>
 
-<div id="second">
+<div id="second" style="float:left;">
 	
 ### Parcours
 
