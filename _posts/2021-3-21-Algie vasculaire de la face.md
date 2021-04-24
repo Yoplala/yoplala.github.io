@@ -7,7 +7,9 @@ Algie vasculaire de la face, cluster headache, céphalée en grappe, céphalée 
 
 Le 21 mars est la journée de sensibilisation à cette maladie et la poétesse Lisette Lombé la décrit bien mieux que moi...
 
-<iframe width="582" height="327" src="https://www.youtube.com/embed/06tZBxn1cMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/06tZBxn1cMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span>[AVF LA LIGNE BLANCHE](https://www.youtube.com/watch?v=06tZBxn1cMM)</span>
 
 J'en souffre depuis 2012, j'ai été diagnostiqué en 2017, les traitements sont expérimentaux, on n'en guérit pas. Parfois elle disparaît d'elle même, souvent elle revient...
 
