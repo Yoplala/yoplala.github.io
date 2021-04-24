@@ -24,10 +24,10 @@ J'ai finalement trouvé un traitement qui diminue les impacts de la maladie et j
 ### Projets
 
 Tout en continuant à me former, je suis occupé pour le moment sur les projets suivants :
-• Site sur SPIP pour les nouvelles d’un écrivain (commande client)
-• Web-store pour des smartphones reconditionnés (commande client)
-• Thème personnalisé pour BuddyPress (projet personnel)
-• Application de liste de courses (projet personnel)
+- Site sur SPIP pour les nouvelles d’un écrivain (commande client)
+- Web-store pour des smartphones reconditionnés (commande client)
+- Thème personnalisé pour BuddyPress (projet personnel)
+- Application de liste de courses (projet personnel)
 
 
 ### Par ailleurs
