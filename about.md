@@ -8,7 +8,7 @@ permalink: /about/
 
 
 
-Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
+<span style="padding-top: 20%">Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !</span>
 
 	
 <span style="display: block; clear: both;"> </span>
