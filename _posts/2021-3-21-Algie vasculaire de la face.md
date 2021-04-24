@@ -20,4 +20,4 @@ J'ai de la chance malgré tout puisqu'un des traitements fonctionne bien avec mo
 
 
 - Association belge des malades : [OUCH Belgium ASBL](https://ouch-belgium.be/fr/)
-- [Article sur Wikipédia](https://fr.wikipedia.org/wiki/Algie_vasculaire_de_la_face)
+- Algie vasculaire de la face sur [Wikipédia](https://fr.wikipedia.org/wiki/Algie_vasculaire_de_la_face)
