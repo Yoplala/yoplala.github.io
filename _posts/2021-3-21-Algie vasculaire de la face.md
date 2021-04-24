@@ -14,7 +14,7 @@ J'en souffre depuis 2012, j'ai été diagnostiqué en 2017, les traitements sont
 J'ai de la chance malgré tout puisqu'un des traitements fonctionne bien avec moi, même si je dois prendre des doses de cheval. Je peux enfin imaginer retravailler, même si parfois je devrai m'éclipser 5 minutes, le temps de me faire une injection contre la douleur.
 
 
-<iframe width="582" height="327" src="https://www.youtube.com/watch?v=iE0_0Ponqok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="582" height="327" src="https://www.youtube.com/embed/iE0_0Ponqok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - Association belge des malades : [OUCH Belgium ASBL](https://ouch-belgium.be/fr/)
