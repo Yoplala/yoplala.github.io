@@ -6,22 +6,6 @@ permalink: /about/
 
 # À propos
 
-<style>
-	pres {
-		float: left;
-		max-width: 150px;
-		margin-right: 5%;
-		
-	} 
-	#first {
-		margin-top: 10%;
-	}
-	#second {
-		clear: both;
-		margin-top: 15%;
-	}
-</style>
-
 <pres>![Photo CV.png](https://github.com/Yoplala/yoplala.github.io/blob/master/images/PhotoCV.png)</pres>
 
 <div id="first">
