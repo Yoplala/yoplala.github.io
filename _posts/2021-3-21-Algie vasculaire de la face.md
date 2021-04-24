@@ -5,6 +5,8 @@ title: Algie vasculaire de la face
 
 Algie vasculaire de la face, cluster headache, céphalée en grappe, céphalée de Horton... plein de noms pour une même saloperie !
 
+![Algie vasculaire de la face](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/algie.jpg)
+
 Le 21 mars est la journée de sensibilisation à cette maladie et la poétesse Lisette Lombé la décrit bien mieux que moi...
 
 <iframe width="582" height="327" src="https://www.youtube.com/embed/06tZBxn1cMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,6 +21,3 @@ J'ai de la chance malgré tout puisqu'un des traitements fonctionne bien avec mo
 
 - Association belge des malades : [OUCH Belgium ASBL](https://ouch-belgium.be/fr/)
 - [Article sur Wikipédia](https://fr.wikipedia.org/wiki/Algie_vasculaire_de_la_face)
-
-![Algie vasculaire de la face](https://raw.githubusercontent.com/Yoplala/yoplala.github.io/master/images/algie.jpg)
-
