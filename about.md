@@ -7,11 +7,9 @@ permalink: /about/
 # À propos
 
 ![Photo CV.png](https://github.com/Yoplala/yoplala.github.io/blob/master/images/PhotoCV.png)
-<div id="first">
-Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
-</div>
 
-<div id="second" style="float:left;">
+Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
+
 	
 ### Parcours
 
@@ -42,6 +40,5 @@ Sporadiquement, j'ai des phases où je joue intensément à [Dwarf Fortress](htt
 
 ### Ce blog
 
-Actuellement en recherche d'emploi, j'avais envie d'écrire quelques lignes. Je n'ai aucune ambition pour ce blog, mais ça me faisait plaisir de tester Jekyll Now et utterances  sur GitHub ! Pour le reste, on verra selon l'inspiration... ;) 
-</div>
+Actuellement en recherche d'emploi, j'avais envie d'écrire quelques lignes. Je n'ai aucune ambition pour ce blog, mais ça me faisait plaisir de tester Jekyll Now et utterances  sur GitHub ! Pour le reste, on verra selon l'inspiration... ;)
 
