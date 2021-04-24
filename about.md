@@ -6,8 +6,7 @@ permalink: /about/
 
 # À propos
 
-<span id="photo">![Photo CV.png](https://github.com/Yoplala/yoplala.github.io/blob/master/images/PhotoCV.png)</span>
-
+![Photo CV.png](https://github.com/Yoplala/yoplala.github.io/blob/master/images/PhotoCV.png)
 <div id="first">
 Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
 </div>
