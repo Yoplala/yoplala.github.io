@@ -29,6 +29,7 @@ Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Br
 </div>
 
 <div id="second">
+	
 ### Parcours
 
 J'ai d'abord travaillé plusieurs années en librairie tout en finançant mes études d'anthropologie à l'université. J'ai ensuite eu l'occasion de travailler comme responsable de service dans une fédération de centres de planning familial (défense politique et activités publiques). 
