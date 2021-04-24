@@ -22,7 +22,7 @@ permalink: /about/
 	}
 </style>
 
-<pres>![Photo CV.png](:/803aeb1de0d94e9cba40c4f3e774e6cc)</pres>
+<pres>![Photo CV.png](:/Images/Photo CV.png)</pres>
 
 <div id="first">
 Hello ! Moi c'est Samy, 41 ans, développeur front-end et intégrateur web à Bruxelles !
